@@ -4,3 +4,7 @@ import styles from './styles.module.css'
 export const ExampleComponent = ({ text }) => {
   return <div className={styles.test}>Example Component: {text}</div>
 }
+
+export const Button = ({ type, text }) => {
+  return <button className={`${styles.btn} ${styles[type]}`}>{text}</button>
+}
