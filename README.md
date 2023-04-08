@@ -28,3 +28,6 @@ class Example extends Component {
 ## License
 
 MIT © [Batikann](https://github.com/Batikann)
+
+![resim](https://user-images.githubusercontent.com/71382413/230737029-e04a6fc0-3b5c-4132-9cfc-b7f135013dae.png)
+
