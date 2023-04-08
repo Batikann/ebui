@@ -5,7 +5,7 @@ import 'ebui/dist/index.css'
 
 const App = () => {
   return (
-    <div className='btn-container'>
+    <div>
       <Button type='primary' text='Primary Button'></Button>
       <Button type='default' text='Default Button'></Button>
       <Button type='dashed' text='Dashed Button'></Button>
